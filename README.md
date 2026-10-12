@@ -1,4 +1,4 @@
-# Student Management System (Python OOP)
+# EduTrack – Student Management System
 
 A simple command-line Student Management System built with Object-Oriented Programming in Python. It takes a student's details as input, displays them, and calculates the grade from the marks.
 
